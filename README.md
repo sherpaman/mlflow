@@ -1,4 +1,4 @@
-# MLFlow @ Claviate
+# MLFlow Dockerized
 
 ## Setup development env
 
